@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/btn">
+        <file>pictures/play.png</file>
+        <file>pictures/fast.png</file>
+        <file>pictures/slow.png</file>
+        <file>pictures/sound_off.png</file>
+        <file>pictures/sound_on.png</file>
+        <file>pictures/step_backward.png</file>
+        <file>pictures/step_forward.png</file>
+        <file>pictures/stop.png</file>
+        <file>pictures/to_begin.png</file>
+        <file>pictures/to_end.png</file>
+    </qresource>
+</RCC>

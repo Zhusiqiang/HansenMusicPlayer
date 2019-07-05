@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FileZilla3>
+    <Servers>
+        <Server>
+            <Host>10.66.7.11</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.11</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.11&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.12</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.12</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.12&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.14</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.14</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.14&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.22</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.22</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.22&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.70</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>toor4nsn</User>
+            <Pass>oZPS0POrRieRtu</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.70</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.70&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.72</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>toor4nsn</User>
+            <Pass>oZPS0POrRieRtu</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.72</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.72&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.7.74</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>toor4nsn</User>
+            <Pass>oZPS0POrRieRtu</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.74</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.66.7.74&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.101</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.101</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.101&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.11</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.11</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.11&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.110</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.110</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.110&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.14</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.14</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.14&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.18</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.18</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.18&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.26</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.26</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.26&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.34</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.34</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.34&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.136.45</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.136.45</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.136.45&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.137.134</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.137.134</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.137.134&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.9.139.35</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.9.139.35</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>10.9.139.35&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.117.226.30</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>crdesign</User>
+            <Pass>CRD0min0#</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.117.226.30</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.117.226.30&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.120.139.244</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>cpri</User>
+            <Pass>umts</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.120.139.244</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.120.139.244&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.120.140.131</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.120.140.131</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.120.140.131&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.120.140.138</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.120.140.138</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.120.140.138&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.240.143.133</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.240.143.133</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.240.143.133&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.240.143.21</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.240.143.21</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.240.143.21&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.240.143.30</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>bridge1</User>
+            <Pass>PLATFORM</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.240.143.30</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.240.143.30&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.240.25.160</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>lteftp</User>
+            <Pass>lteftp</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.240.25.160</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.240.25.160&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.242.109.66</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>bjoamst</User>
+            <Pass>bjoamst</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.242.109.66</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.242.109.66&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.242.137.135</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>ci_test1</User>
+            <Pass>ci_pass1</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.242.137.135</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.242.137.135&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.242.169.80</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.242.169.80</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.242.169.80&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.242.85.67</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>LiGuilan</User>
+            <Pass>asbasb</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.242.85.67</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.242.85.67&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.242.86.110</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>lte</User>
+            <Pass>lte</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.242.86.110</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.242.86.110&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.243.22.215</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>lte_ci</User>
+            <Pass>lte_ci</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.243.22.215</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.243.22.215&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.247.153.152</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>oamuser</User>
+            <Pass>oamuser</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.247.153.152</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.247.153.152&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.247.167.46</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>lte_all</User>
+            <Pass>lte_all</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.247.167.46</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.247.167.46&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.131</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.131</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.131&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.133</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.133</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.133&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.136</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.136</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.136&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.137</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.137</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.137&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.170</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>root</User>
+            <Pass>lte#2345</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.170</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.170&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.213</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.213</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.213&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.218</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.218</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.218&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.220</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.220</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.220&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.123.229</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>storage229\scuser</User>
+            <Pass>scuser</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.123.229</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.251.123.229&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.137.184</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <Logontype>0</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.137.184</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.251.137.184&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.23.21</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>user</User>
+            <Pass>user</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.251.23.21</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.251.23.21&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.168.157</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>rf_fi</User>
+            <Pass>rf_fi</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.168.157</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.168.157&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.233.54</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>uiivftp</User>
+            <Pass>uiivftp</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.233.54</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.233.54&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.3.82</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>J6_04-HP</User>
+            <Pass>123456</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.3.82</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.3.82&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.5.161</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.5.161</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.5.161&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.5.164</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.5.164</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.5.164&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.5.167</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.5.167</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.5.167&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.5.198</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>enb0xfer</User>
+            <Pass>&amp;65UytJhg</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.5.198</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.5.198&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.252.5.239</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>asb</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>135.252.5.239</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>135.252.5.239&#x0A;        
+        </Server>
+        <Server>
+            <Host>172.24.138.34</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>gpsftp</User>
+            <Pass>gpsftp</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>172.24.138.34</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>172.24.138.34&#x0A;        
+        </Server>
+        <Server>
+            <Host>172.26.218.15</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>ftp</User>
+            <Pass>ftp</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>172.26.218.15</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>172.26.218.15&#x0A;        
+        </Server>
+        <Server>
+            <Host>192.168.1.100</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>root</User>
+            <Pass>nsb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>192.168.1.100</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>192.168.1.100&#x0A;        
+        </Server>
+        <Server>
+            <Host>192.168.150.218</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>192.168.150.218</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>192.168.150.218&#x0A;        
+        </Server>
+        <Folder expanded="1">compilers&#x0A;            
+            <Server>
+                <Host>10.66.7.27</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>fzps</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>10.66.7.27</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>10.66.7.27&#x0A;            
+            </Server>
+            <Server>
+                <Host>10.135.159.15</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>Driver#0152</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>hzlinb505.china.nsn-net.net</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>hzlinb505.china.nsn-net.net&#x0A;            
+            </Server>
+            <Server>
+                <Host>135.242.169.223</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>asb</User>
+                <Pass />
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>新站点</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>新站点&#x0A;            
+            </Server>
+            <Server>
+                <Host>fpling34.americas.nsn-net.net</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>ap</User>
+                <Pass>ap</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>新站点 3</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>新站点 3&#x0A;            
+            </Server>
+            <Server>
+                <Host>fpling34.americas.nsn-net.net</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>Driver#0150</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>新站点 4</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>新站点 4&#x0A;            
+            </Server>
+        </Folder>
+        <Server>
+            <Host>10.66.7.19</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>DL580</Name>
+            <Comments />
+            <LocalDir>D:\Code\LR133_HSIQ_HOLD\tmp\siqianz\LR133_HSIQ_HOLD_src\LTESRC\src\xcob_bias\</LocalDir>
+            <RemoteDir>1 0 4 view 32 siqianz_pltf_lr13.3l_tdd_pre_dev 4 vobs 7 onepltf 6 common 3 lte 3 src 4 xcob</RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>DL580&#x0A;        
+        </Server>
+        <Server>
+            <Host>ftp.lucent.com</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>nodeb</User>
+            <Pass>nodeb22</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>ftp.lucent.com</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>ftp.lucent.com&#x0A;        
+        </Server>
+        <Server>
+            <Host>202.194.192.178</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>friend</User>
+            <Pass>friend</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>ftp://friend:friend@202.194.192.178/</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>ftp://friend:friend@202.194.192.178/&#x0A;        
+        </Server>
+        <Server>
+            <Host>ftp.kaist.ac.kr</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <Logontype>0</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>ftp://ftp.kaist.ac.kr/x.org/</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>ftp://ftp.kaist.ac.kr/x.org/&#x0A;        
+        </Server>
+        <Server>
+            <Host>10.66.1.107</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>Administrator</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>RemotePC for TVs</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>RemotePC for TVs&#x0A;        
+        </Server>
+        <Folder expanded="1">TEC Server&#x0A;            
+            <Server>
+                <Host>135.243.31.33</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>etisalat</User>
+                <Pass>123etisalatua3</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>135.243.31.33</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>135.243.31.33&#x0A;            
+            </Server>
+        </Folder>
+        <Folder expanded="1">US&#x0A;            
+            <Server>
+                <Host>10.52.202.126</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>ap</User>
+                <Pass>ap</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>10.52.202.126</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>10.52.202.126&#x0A;            
+            </Server>
+            <Server>
+                <Host>fpling34.americas.nsn-net.net</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>Driver#0152</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>fpling34.americas.nsn-net.net</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>fpling34.americas.nsn-net.net&#x0A;            
+            </Server>
+            <Server>
+                <Host>135.2.131.134</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>guest</User>
+                <Pass>guest</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>NAPERVILLE_ST</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir>1 0 11 nas09-rmt14 7 lte_log</RemoteDir>
+                <SyncBrowsing>0</SyncBrowsing>NAPERVILLE_ST&#x0A;            
+            </Server>
+        </Folder>
+        <Folder expanded="1">VMware&#x0A;            
+            <Server>
+                <Host>10.9.133.3</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>10.9.133.3</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>10.9.133.3&#x0A;            
+            </Server>
+            <Server>
+                <Host>135.242.169.241</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>135.242.169.241</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>135.242.169.241&#x0A;            
+            </Server>
+            <Server>
+                <Host>189.168.43.21</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>ipconn</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>189.168.43.21</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>189.168.43.21&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.1.107</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.1.107</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.1.107&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.1.109</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.1.109</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.1.109&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.1.110</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.1.110</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.1.110&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.1.3</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.1.3</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.1.3&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.113.3</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.113.3</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.113.3&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.162.128</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.162.128</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.162.128&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.162.129</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>siqianz</User>
+                <Pass>asb#1234</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.162.129</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.162.129&#x0A;            
+            </Server>
+            <Server>
+                <Host>192.168.255.129</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>toor4nsn</User>
+                <Pass>oZPS0POrRieRtu</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>192.168.255.129</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>192.168.255.129&#x0A;            
+            </Server>
+            <Server>
+                <Host>ftp.sparklan.com</Host>
+                <Port>21</Port>
+                <Protocol>0</Protocol>
+                <Type>0</Type>
+                <User>driver</User>
+                <Pass>driver</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>ftp://ftp.sparklan.com</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>ftp://ftp.sparklan.com&#x0A;            
+            </Server>
+            <Server>
+                <Host>10.66.13.231</Host>
+                <Port>22</Port>
+                <Protocol>1</Protocol>
+                <Type>0</Type>
+                <User>ute</User>
+                <Pass>ute</Pass>
+                <Logontype>1</Logontype>
+                <TimezoneOffset>0</TimezoneOffset>
+                <PasvMode>MODE_DEFAULT</PasvMode>
+                <MaximumMultipleConnections>0</MaximumMultipleConnections>
+                <EncodingType>Auto</EncodingType>
+                <BypassProxy>0</BypassProxy>
+                <Name>vnc111</Name>
+                <Comments />
+                <LocalDir />
+                <RemoteDir />
+                <SyncBrowsing>0</SyncBrowsing>vnc111&#x0A;            
+            </Server>
+        </Folder>
+        <Server>
+            <Host>135.242.169.241</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass> asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>新站点</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>新站点&#x0A;        
+        </Server>
+        <Server>
+            <Host>135.251.126.219</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>asb</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>新站点 3</Name>
+            <Comments />
+            <LocalDir />
+            <RemoteDir />
+            <SyncBrowsing>0</SyncBrowsing>新站点 3&#x0A;        
+        </Server>
+    </Servers>
+    <Settings>
+        <Setting name="Use Pasv mode">1</Setting>
+        <Setting name="Limit local ports">0</Setting>
+        <Setting name="Limit ports low">6000</Setting>
+        <Setting name="Limit ports high">7000</Setting>
+        <Setting name="External IP mode">0</Setting>
+        <Setting name="External IP" />
+        <Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+        <Setting name="Last resolved IP" />
+        <Setting name="No external ip on local conn">1</Setting>
+        <Setting name="Pasv reply fallback mode">0</Setting>
+        <Setting name="Timeout">20</Setting>
+        <Setting name="Logging Debug Level">0</Setting>
+        <Setting name="Logging Raw Listing">0</Setting>
+        <Setting name="fzsftp executable" />
+        <Setting name="Allow transfermode fallback">1</Setting>
+        <Setting name="Reconnect count">2</Setting>
+        <Setting name="Reconnect delay">5</Setting>
+        <Setting name="Enable speed limits">0</Setting>
+        <Setting name="Speedlimit inbound">100</Setting>
+        <Setting name="Speedlimit outbound">20</Setting>
+        <Setting name="Speedlimit burst tolerance">0</Setting>
+        <Setting name="View hidden files">1</Setting>
+        <Setting name="Preserve timestamps">1</Setting>
+        <Setting name="Socket recv buffer size (v2)">4194304</Setting>
+        <Setting name="Socket send buffer size (v2)">262144</Setting>
+        <Setting name="FTP Keep-alive commands">0</Setting>
+        <Setting name="FTP Proxy type">0</Setting>
+        <Setting name="FTP Proxy host" />
+        <Setting name="FTP Proxy user" />
+        <Setting name="FTP Proxy password" />
+        <Setting name="FTP Proxy login sequence" />
+        <Setting name="SFTP keyfiles" />
+        <Setting name="Proxy type">0</Setting>
+        <Setting name="Proxy host" />
+        <Setting name="Proxy port">0</Setting>
+        <Setting name="Proxy user" />
+        <Setting name="Proxy password" />
+        <Setting name="Logging file" />
+        <Setting name="Logging filesize limit">10</Setting>
+        <Setting name="Trusted root certificate" />
+        <Setting name="Size format">0</Setting>
+        <Setting name="Size thousands separator">1</Setting>
+        <Setting name="Size decimal places">1</Setting>
+        <Setting name="Number of Transfers">2</Setting>
+        <Setting name="Ascii Binary mode">2</Setting>
+        <Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+        <Setting name="Auto Ascii no extension">1</Setting>
+        <Setting name="Auto Ascii dotfiles">1</Setting>
+        <Setting name="Theme">opencrystal/</Setting>
+        <Setting name="Language Code" />
+        <Setting name="Last Server Path">1 0 4 home 13 PublicStorage 8 training</Setting>
+        <Setting name="Concurrent download limit">0</Setting>
+        <Setting name="Concurrent upload limit">0</Setting>
+        <Setting name="Update Check">1</Setting>
+        <Setting name="Update Check Interval">7</Setting>
+        <Setting name="Last automatic update check">2019-06-25 15:08:48</Setting>
+        <Setting name="Update Check New Version">3.33.0</Setting>
+        <Setting name="Update Check Check Beta">0</Setting>
+        <Setting name="Update Check Download Dir">D:\Tools\</Setting>
+        <Setting name="Show debug menu">0</Setting>
+        <Setting name="File exists action download">0</Setting>
+        <Setting name="File exists action upload">0</Setting>
+        <Setting name="Allow ascii resume">0</Setting>
+        <Setting name="Greeting version">3.5.3</Setting>
+        <Setting name="Onetime Dialogs">000001</Setting>
+        <Setting name="Show Tree Local">1</Setting>
+        <Setting name="Show Tree Remote">1</Setting>
+        <Setting name="File Pane Layout">0</Setting>
+        <Setting name="File Pane Swap">0</Setting>
+        <Setting name="Last local directory">D:\Documents\3. DevelopWorks\important_data\Notes\</Setting>
+        <Setting name="Filelist directory sort">0</Setting>
+        <Setting name="Queue successful autoclear">0</Setting>
+        <Setting name="Queue column widths">180 140 291 80 60 100</Setting>
+        <Setting name="Local filelist colwidths">408 125 100 120</Setting>
+        <Setting name="Remote filelist colwidths">473 113 80 136 80 80</Setting>
+        <Setting name="Window position and size">1 1583 154 1024 527 </Setting>
+        <Setting name="Splitter positions (v2)">103 -201 442166910 100 100 500000000</Setting>
+        <Setting name="Local filelist sortorder">1 3</Setting>
+        <Setting name="Remote filelist sortorder">1 3</Setting>
+        <Setting name="Time Format" />
+        <Setting name="Date Format" />
+        <Setting name="Show message log">1</Setting>
+        <Setting name="Show queue">1</Setting>
+        <Setting name="Default editor" />
+        <Setting name="Always use default editor">0</Setting>
+        <Setting name="Inherit system associations">1</Setting>
+        <Setting name="Custom file associations" />
+        <Setting name="Comparison mode">1</Setting>
+        <Setting name="Comparison threshold">1</Setting>
+        <Setting name="Site Manager position">0 2067 321 502 400 </Setting>
+        <Setting name="Theme icon size" />
+        <Setting name="Timestamp in message log">0</Setting>
+        <Setting name="Sitemanager last selected">0DL580/</Setting>
+        <Setting name="Local filelist shown columns">1111</Setting>
+        <Setting name="Remote filelist shown columns">111111</Setting>
+        <Setting name="Local filelist column order">0,1,2,3</Setting>
+        <Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+        <Setting name="Filelist status bar">1</Setting>
+        <Setting name="Filter toggle state">0</Setting>
+        <Setting name="Show quickconnect bar">1</Setting>
+        <Setting name="Messagelog position">0</Setting>
+        <Setting name="Last connected site">0/10.66.7.14</Setting>
+        <Setting name="File doubleclock action">0</Setting>
+        <Setting name="Dir doubleclock action">0</Setting>
+        <Setting name="Minimize to tray">0</Setting>
+        <Setting name="Search column widths" />
+        <Setting name="Search column shown" />
+        <Setting name="Search column order" />
+        <Setting name="Search window size" />
+        <Setting name="Comparison hide identical">0</Setting>
+        <Setting name="Search sort order" />
+        <Setting name="Edit track local">1</Setting>
+        <Setting name="Prevent idle sleep">1</Setting>
+        <Setting name="Filteredit window size" />
+        <Setting name="Enable invalid char filter">1</Setting>
+        <Setting name="Invalid char replace">_</Setting>
+        <Setting name="Already connected choice">0</Setting>
+        <Setting name="Edit status dialog size" />
+        <Setting name="Display current speed">0</Setting>
+        <Setting name="Toolbar hidden">0</Setting>
+        <Setting name="Strip VMS revisions">0</Setting>
+        <Setting name="Show Site Manager on startup">0</Setting>
+        <Setting name="Config Location">C:\Users\siqianz\AppData\Roaming\FileZilla</Setting>
+        <Setting name="Kiosk mode">0</Setting>
+        <Setting name="Disable update check">0</Setting>
+        <LastServer>
+            <Host>10.66.7.14</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>siqianz</User>
+            <Pass>asb#1234</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>10.66.7.14</Name>
+        </LastServer>
+    </Settings>
+</FileZilla3>
